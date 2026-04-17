@@ -1,7 +1,9 @@
 # 👩🏽‍💻 Liliane Arrais
-**`Desenvolvedora em formação`**
+**`Engenharia de Software (2027/2)`**
 
-Me chamo Liliane Arrais, curso Engenharia de Software e com foco em desenvolvimento web. Possuo conhecimentos sólidos em HTML5, CSS3, JavaScript e Git/GitHub, além de estar aprofundando minhas habilidades em Python, Aprendendo PHP e React. Tenho experiência com análise de requisitos, criação de protótipos em Figma e colaboração em equipes multidisciplinares
+🛠 Stack: React, Node.js, Supabase, PHP, Python.
+🔭 Atualmente: Desenvolvendo sistemas de gestão jurídica e automação industrial.
+🌱 Aprendendo: Arquitetura de Software e Testes Automatizados.
 <p align="left">
     <a href="https://wa.link/s0mwln">
         <img 
